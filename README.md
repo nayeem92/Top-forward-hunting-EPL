@@ -6,8 +6,7 @@
 
 ## Description
 * Collected 2 datasets consisting of shot/goal creating chances and shot/goal ratios including standard and expected goals/shots of each player.
-* Data Cleaning
-* Data filtering
+* Data Preprocessing
 * SQL queries to pick specific players for visualization after running different queries to analyze the best of them
 * Data visualization
 * Erling Haaland Stats compared to the top forwards
